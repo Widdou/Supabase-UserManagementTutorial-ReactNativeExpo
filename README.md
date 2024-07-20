@@ -1,5 +1,6 @@
 # Integrating Supabase User Management Module into a React Native application
 
+(Tutorial Link - Supabase Documentation)[https://supabase.com/docs/guides/getting-started/tutorials/with-expo-react-native]
 
 ## Concepts:
 - Authentication and User Management (SignUp and SignIn)
